@@ -1,11 +1,11 @@
 ### Eaí, beleza? Eu sou Yan Felipy!
  - 💼 Atualmente trabalho como Motociclista...
 - ⚡ Eletrizado por novas experiências e motivado pela complexidade da vida.
-- 💻 Linguagens : <img align="center" alt="Yan-Java" height="25" width="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"> 
+- 💻 Linguagens : <img align="center" alt="Yan-Java" height="24" width="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"> 
 - 🔜 Estudando -<img align="center" alt="Yan-Js" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img align="center" alt="Yan-HTML" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img align="center" alt="Yan-CSS" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
   ##
 <div align="center">
-  <a href="https://github.com/YanFelipy">
+  <a href="https://github.com/YanFelipy?tab=repositories">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YanFelipy&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanFelipy&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
   </a>
