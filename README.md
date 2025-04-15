@@ -1,5 +1,6 @@
-### Eaí, beleza? Eu sou Yan Felipy!
- - 💼 Atualmente trabalho como Motociclista...
+### Eaí, beleza? Eu sou Yan Felipy! 
+Desenvolvedor Front-end.
+ - 💼 Disponível para novas oportunidades.
 - ⚡ Eletrizado por novas experiências e motivado pela complexidade da vida.
 - 💻 Linguagens : <img align="center" alt="Yan-Java" height="24" width="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"> <img align="center" alt="Yan-Js" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img align="center" alt="Yan-HTML" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img align="center" alt="Yan-CSS" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 - 🔜 Estudando - <img align="center" alt="Yan-CSS" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> 
